@@ -6,5 +6,7 @@
             "email": "yourchev@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+      "cocur/slugify":"*"
+    }
 }
