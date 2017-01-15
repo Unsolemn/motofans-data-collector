@@ -1,0 +1,12 @@
+{
+    "name": "root/data",
+    "authors": [
+        {
+            "name": "Dmitry Yourchev",
+            "email": "yourchev@gmail.com"
+        }
+    ],
+    "require": {
+      "cocur/slugify":"*"
+    }
+}
